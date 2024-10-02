@@ -1,0 +1,7 @@
+.active {
+  border-bottom: 4px solid #ffffff;
+}
+.delimg:hover {
+  width: 60px;
+  transition: 0.2s;
+}
